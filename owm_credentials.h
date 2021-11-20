@@ -5,7 +5,7 @@ const char* ssid     = "xxxxxxxxxxxxxxxx";
 const char* password = "yyyyyyyyyyyyyyyy";
 
 // Use your own API key by signing up for a free developer account at https://openweathermap.org/
-String apikey       = "68949f03342ee22d5cb9d36a579dc998";                      // See: https://openweathermap.org/
+String apikey       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";                      // See: https://openweathermap.org/
 const char server[] = "api.openweathermap.org";
 //http://api.openweathermap.org/data/2.5/forecast?q=Melksham,UK&APPID=your_OWM_API_key&mode=json&units=metric&cnt=40
 //http://api.openweathermap.org/data/2.5/weather?q=Melksham,UK&APPID=your_OWM_API_key&mode=json&units=metric&cnt=1
